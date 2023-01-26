@@ -1,0 +1,12 @@
+C:\Users\student\Documents\Механики М-22-101\Наумов Юрий и Плешков Максим\ИСиП-201\Ефремов\GeometryCalc\GeometryCalc\bin\Debug\GeometryCalc.exe.config
+C:\Users\student\Documents\Механики М-22-101\Наумов Юрий и Плешков Максим\ИСиП-201\Ефремов\GeometryCalc\GeometryCalc\bin\Debug\GeometryCalc.exe
+C:\Users\student\Documents\Механики М-22-101\Наумов Юрий и Плешков Максим\ИСиП-201\Ефремов\GeometryCalc\GeometryCalc\bin\Debug\GeometryCalc.pdb
+C:\Users\student\Documents\Механики М-22-101\Наумов Юрий и Плешков Максим\ИСиП-201\Ефремов\GeometryCalc\GeometryCalc\obj\Debug\GeometryCalc.csproj.AssemblyReference.cache
+C:\Users\student\Documents\Механики М-22-101\Наумов Юрий и Плешков Максим\ИСиП-201\Ефремов\GeometryCalc\GeometryCalc\obj\Debug\GeometryCalc.Form1.resources
+C:\Users\student\Documents\Механики М-22-101\Наумов Юрий и Плешков Максим\ИСиП-201\Ефремов\GeometryCalc\GeometryCalc\obj\Debug\GeometryCalc.Properties.Resources.resources
+C:\Users\student\Documents\Механики М-22-101\Наумов Юрий и Плешков Максим\ИСиП-201\Ефремов\GeometryCalc\GeometryCalc\obj\Debug\GeometryCalc.csproj.GenerateResource.cache
+C:\Users\student\Documents\Механики М-22-101\Наумов Юрий и Плешков Максим\ИСиП-201\Ефремов\GeometryCalc\GeometryCalc\obj\Debug\GeometryCalc.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Механики М-22-101\Наумов Юрий и Плешков Максим\ИСиП-201\Ефремов\GeometryCalc\GeometryCalc\obj\Debug\GeometryCalc.exe
+C:\Users\student\Documents\Механики М-22-101\Наумов Юрий и Плешков Максим\ИСиП-201\Ефремов\GeometryCalc\GeometryCalc\obj\Debug\GeometryCalc.pdb
+C:\Users\student\Documents\Механики М-22-101\Наумов Юрий и Плешков Максим\ИСиП-201\Ефремов\GeometryCalc\GeometryCalc\obj\Debug\GeometryCalc.Form2.resources
+C:\Users\student\Documents\Механики М-22-101\Наумов Юрий и Плешков Максим\ИСиП-201\Ефремов\GeometryCalc\GeometryCalc\obj\Debug\GeometryCalc.MainForm.resources
