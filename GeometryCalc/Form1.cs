@@ -68,7 +68,7 @@ namespace GeometryCalc
                 }
                     triangle = new Triangle(a, b, al);
 
-                    lblRes1.Text = lblRes1.Text + " " + triangle.resultSquareAB().ToString();
+                    lblRes1.Text = lblRes1.Text + " " + triangle.resultSquareABC().ToString();
 
             }
             catch (Exception ex)
