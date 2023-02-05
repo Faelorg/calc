@@ -10,3 +10,16 @@ C:\Users\student\Documents\Механики М-22-101\Наумов Юрий и �
 C:\Users\student\Documents\Механики М-22-101\Наумов Юрий и Плешков Максим\ИСиП-201\Ефремов\GeometryCalc\GeometryCalc\obj\Debug\GeometryCalc.pdb
 C:\Users\student\Documents\Механики М-22-101\Наумов Юрий и Плешков Максим\ИСиП-201\Ефремов\GeometryCalc\GeometryCalc\obj\Debug\GeometryCalc.Form2.resources
 C:\Users\student\Documents\Механики М-22-101\Наумов Юрий и Плешков Максим\ИСиП-201\Ефремов\GeometryCalc\GeometryCalc\obj\Debug\GeometryCalc.MainForm.resources
+C:\Users\efrem\OneDrive\Рабочий стол\calc\GeometryCalc\bin\Debug\GeometryCalc.exe.config
+C:\Users\efrem\OneDrive\Рабочий стол\calc\GeometryCalc\bin\Debug\GeometryCalc.exe
+C:\Users\efrem\OneDrive\Рабочий стол\calc\GeometryCalc\bin\Debug\GeometryCalc.pdb
+C:\Users\efrem\OneDrive\Рабочий стол\calc\GeometryCalc\obj\Debug\GeometryCalc.csproj.AssemblyReference.cache
+C:\Users\efrem\OneDrive\Рабочий стол\calc\GeometryCalc\obj\Debug\GeometryCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\efrem\OneDrive\Рабочий стол\calc\GeometryCalc\obj\Debug\GeometryCalc.Form1.resources
+C:\Users\efrem\OneDrive\Рабочий стол\calc\GeometryCalc\obj\Debug\GeometryCalc.Form2.resources
+C:\Users\efrem\OneDrive\Рабочий стол\calc\GeometryCalc\obj\Debug\GeometryCalc.MainForm.resources
+C:\Users\efrem\OneDrive\Рабочий стол\calc\GeometryCalc\obj\Debug\GeometryCalc.Properties.Resources.resources
+C:\Users\efrem\OneDrive\Рабочий стол\calc\GeometryCalc\obj\Debug\GeometryCalc.csproj.GenerateResource.cache
+C:\Users\efrem\OneDrive\Рабочий стол\calc\GeometryCalc\obj\Debug\GeometryCalc.csproj.CoreCompileInputs.cache
+C:\Users\efrem\OneDrive\Рабочий стол\calc\GeometryCalc\obj\Debug\GeometryCalc.exe
+C:\Users\efrem\OneDrive\Рабочий стол\calc\GeometryCalc\obj\Debug\GeometryCalc.pdb

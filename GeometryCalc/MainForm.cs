@@ -22,7 +22,7 @@ namespace GeometryCalc
             var f = new Form1();
 
             f.Show();
-            this.Close();
+            //this.Close();
         }
 
         private void btn3_Click(object sender, EventArgs e)
@@ -30,7 +30,7 @@ namespace GeometryCalc
             var f = new Form2();
 
             f.Show();
-            this.Close();
+            //this.Close();
         }
     }
 }

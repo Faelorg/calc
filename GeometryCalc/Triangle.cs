@@ -8,61 +8,31 @@ namespace GeometryCalc
 {   
     class Triangle
     {
-        private double a { get; set; }
+        public double a { private get; set; }
 
-        private double b { get; set; }
+        public double b { private get; set; }
 
-        private double c { get; set; }
+        public double c { private get; set; }
 
-        private double al { get; set; }
+        public double al {private get; set; }
 
-        private bool razn { get; set; }
-        public Triangle(double a, double b, double al)
+        
+
+
+        public string resultSquareABC()
         {
-            this.a = a;
-
-            this.b = b;
-
-            this.al = al;
-        }
-
-        public Triangle(double a, double b, double c, int? o)
-        {
-            if (a>b+c || b>a+c || c>a+b)
-            {
-                throw new Exception("Такого треугольника не существует");
-            }
-            if (a==b & b==c & a==c)
-            {
-                razn = false;
-            }
-            else
-            {
-                razn = true;
-            }
-
-            this.a = a;
-
-            this.b = b;
-
-            this.c = c;
-        }
-
-        public double resultSquareABC()
-        {
-            double square;
-            if (razn)
+            if (!(a>=b+c||b>=a+c||c>=a+b))
             {
                 double p = (a + b + c) / 2;
 
-                square = Math.Sqrt(p*(p-a)*(p-b)*(p-c));
+                double sqr = Math.Sqrt(p*(p-a)*(p-b)*(p-c));
+
+                return Math.Round(sqr, 3).ToString();
             }
             else
             {
-                square = (Math.Sqrt(3) * a * a) / 4;
+                return "Треугольник не существует";               
             }
-            throw new Exception();
-            return square;
         }
 
 

@@ -66,9 +66,15 @@ namespace GeometryCalc
                 {
                     throw new Exception(err.ToString());
                 }
-                    triangle = new Triangle(a, b, al);
+                    triangle = new Triangle();
 
-                    lblRes1.Text = lblRes1.Text + " " + triangle.resultSquareABC().ToString();
+                triangle.a = a;
+
+                triangle.b = b;
+
+                triangle.al = al;
+
+                lblRes1.Text = lblRes1.Text + " " + triangle.resultSquareAB().ToString();
 
             }
             catch (Exception ex)
@@ -110,9 +116,15 @@ namespace GeometryCalc
                 {
                     throw new Exception(err.ToString());
                 }
-                triangle = new Triangle(a, b, al);
+                triangle = new Triangle();
 
-                lblRes2.Text = lblRes2.Text + " " + triangle.resultSquareAB().ToString();
+                triangle.a = a;
+
+                triangle.b = b;
+
+                triangle.al = al;
+
+                lblRes2.Text = lblRes2.Text + " " + Math.Round(triangle.resultSquareAB(),3).ToString();
             }
             catch (Exception ex)
             {

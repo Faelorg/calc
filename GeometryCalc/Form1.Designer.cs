@@ -71,9 +71,9 @@ namespace GeometryCalc
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(12, 82);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(117, 13);
+            this.label3.Size = new System.Drawing.Size(74, 13);
             this.label3.TabIndex = 2;
-            this.label3.Text = "Введите угол сторону";
+            this.label3.Text = "Введите угол";
             // 
             // lblRes1
             // 
@@ -98,9 +98,9 @@ namespace GeometryCalc
             this.label5.AutoSize = true;
             this.label5.Location = new System.Drawing.Point(12, 206);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(117, 13);
+            this.label5.Size = new System.Drawing.Size(74, 13);
             this.label5.TabIndex = 6;
-            this.label5.Text = "Введите угол сторону";
+            this.label5.Text = "Введите угол";
             // 
             // label6
             // 
