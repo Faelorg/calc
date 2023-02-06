@@ -46,6 +46,7 @@ namespace GeometryCalc
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
+            this.btnDraw = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnRes
@@ -190,11 +191,22 @@ namespace GeometryCalc
             this.label1.TabIndex = 17;
             this.label1.Text = "Введите первую сторону";
             // 
+            // btnDraw
+            // 
+            this.btnDraw.Location = new System.Drawing.Point(176, 247);
+            this.btnDraw.Name = "btnDraw";
+            this.btnDraw.Size = new System.Drawing.Size(75, 23);
+            this.btnDraw.TabIndex = 34;
+            this.btnDraw.Text = "Рисовать";
+            this.btnDraw.UseVisualStyleBackColor = true;
+            this.btnDraw.Click += new System.EventHandler(this.btnDraw_Click);
+            // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(266, 281);
+            this.Controls.Add(this.btnDraw);
             this.Controls.Add(this.btnRes);
             this.Controls.Add(this.txbC2);
             this.Controls.Add(this.txbB2);
@@ -239,5 +251,6 @@ namespace GeometryCalc
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button btnDraw;
     }
 }

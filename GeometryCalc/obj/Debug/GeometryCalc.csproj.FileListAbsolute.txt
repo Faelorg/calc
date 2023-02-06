@@ -23,3 +23,19 @@ C:\Users\efrem\OneDrive\Рабочий стол\calc\GeometryCalc\obj\Debug\Geom
 C:\Users\efrem\OneDrive\Рабочий стол\calc\GeometryCalc\obj\Debug\GeometryCalc.csproj.CoreCompileInputs.cache
 C:\Users\efrem\OneDrive\Рабочий стол\calc\GeometryCalc\obj\Debug\GeometryCalc.exe
 C:\Users\efrem\OneDrive\Рабочий стол\calc\GeometryCalc\obj\Debug\GeometryCalc.pdb
+C:\Users\student.COLLEGE\Desktop\calc\GeometryCalc\bin\Debug\GeometryCalc.exe.config
+C:\Users\student.COLLEGE\Desktop\calc\GeometryCalc\bin\Debug\GeometryCalc.exe
+C:\Users\student.COLLEGE\Desktop\calc\GeometryCalc\bin\Debug\GeometryCalc.pdb
+C:\Users\student.COLLEGE\Desktop\calc\GeometryCalc\obj\Debug\GeometryCalc.csproj.AssemblyReference.cache
+C:\Users\student.COLLEGE\Desktop\calc\GeometryCalc\obj\Debug\GeometryCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\student.COLLEGE\Desktop\calc\GeometryCalc\obj\Debug\GeometryCalc.Form1.resources
+C:\Users\student.COLLEGE\Desktop\calc\GeometryCalc\obj\Debug\GeometryCalc.Form2.resources
+C:\Users\student.COLLEGE\Desktop\calc\GeometryCalc\obj\Debug\GeometryCalc.MainForm.resources
+C:\Users\student.COLLEGE\Desktop\calc\GeometryCalc\obj\Debug\GeometryCalc.Properties.Resources.resources
+C:\Users\student.COLLEGE\Desktop\calc\GeometryCalc\obj\Debug\GeometryCalc.csproj.GenerateResource.cache
+C:\Users\student.COLLEGE\Desktop\calc\GeometryCalc\obj\Debug\GeometryCalc.csproj.CoreCompileInputs.cache
+C:\Users\student.COLLEGE\Desktop\calc\GeometryCalc\obj\Debug\GeometryCalc.exe
+C:\Users\student.COLLEGE\Desktop\calc\GeometryCalc\obj\Debug\GeometryCalc.pdb
+C:\Users\student.COLLEGE\Desktop\calc\GeometryCalc\obj\Debug\GeometryCalc.FormDraw.resources
+C:\Users\student.COLLEGE\Desktop\calc\GeometryCalc\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\student.COLLEGE\Desktop\calc\GeometryCalc\obj\Debug\GeometryCalc.csproj.CopyComplete

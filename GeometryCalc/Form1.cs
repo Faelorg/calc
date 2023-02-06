@@ -60,6 +60,7 @@ namespace GeometryCalc
                 {
                     p = true;
                     txbAl1.Text = "";
+                    err.Append("Угол а недопустим. ");
                 }
 
                 if (p)
@@ -110,6 +111,7 @@ namespace GeometryCalc
                 {
                     p = true;
                     txbAl2.Text = "";
+                    err.Append("Угол а недопустим. ");
                 }
 
                 if (p)

@@ -118,5 +118,10 @@ namespace GeometryCalc
                 MessageBox.Show(ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
+
+        private void btnDraw_Click(object sender, EventArgs e)
+        {
+            new FormDraw((double)int.Parse(txbA1.Text), (double)int.Parse(txbB1.Text), (double)int.Parse(txbC1.Text)).Show();
+        }
     }
 }
